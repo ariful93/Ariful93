@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on **WP ERP**
+<h3 align="center">Hi, I’m Ariful Islam a Frontend Engineer, passionate about crafting intuitive and visually engaging user interfaces. With expertise in modern web technologies, I bring ideas to life with clean and efficient code. Let’s collaborate to create exceptional digital experiences!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
