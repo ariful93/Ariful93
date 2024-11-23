@@ -1,7 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
+<h1>Hi 👋, I'm Ariful Islam</h1>
+<p>Frontend Engineer</p>
 <p>Hi, I’m Ariful Islam a Frontend Engineer, passionate about crafting intuitive and visually engaging user interfaces. With expertise in modern web technologies, I bring ideas to life with clean and efficient code. Let’s collaborate to create exceptional digital experiences!</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3>Technical Skills:</h3>
+<ul>
+  <li>
+    <strong>Programming Languages:</strong>
+    JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, SCSS
+  </li>
+  <li>
+    <strong>Frameworks & Libraries:</strong>
+    React.js, Vue.js, Nuxt.js, Next.js
+  </li>
+  <li>
+    <strong>WordPress Development:</strong>
+    <ul>
+      <li>Custom Themes and Plugins</li>
+      <li>Gutenberg Block Development</li>
+      <li>WordPress Core</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Tools & Platforms:</strong>
+   Git, Webpack, Vite, npm, Yarn
+  </li>
+   <li>
+    <strong>Design Tools:</strong>
+   Figma, Sketch
+  </li>
+  <li>
+    <strong>Other Skills:</strong>
+  Responsive Design, Cross-Browser Compatibility
+  </li>
+</ul>
 <p align="left">
 </p>
 
